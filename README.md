@@ -2,7 +2,7 @@
 -------------------------------------------------------
 This project is about helping people make real connections with one another, by creating a scalable, dynamic full-stack web application project named RESHAK MARKET, that will truly stands out and makes a community proud
 
-MERN Stac Technologies
+MERN Technologies
 --------------------------------------------------------
 MongoDB: For database management.
 
